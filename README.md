@@ -1,3 +1,2 @@
-# Devops-practical-1
-Practical class work 
-I'm Lavi Jain from BCA department, fifth semester, third year. 
+I'm Lavi Jain currently pursuing Bachelors degree in Computer Application From DSEU  pitampura campus. 
+i want to start my career in Data analytics , as i like to play with data. 
